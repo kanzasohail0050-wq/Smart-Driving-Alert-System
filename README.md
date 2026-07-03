@@ -415,7 +415,7 @@ See the **LICENSE** file for more details.
 
 Electronics & Computing Engineering Student
 
-GitHub: https://github.com/kanza-12
+GitHub: (https://github.com/kanzasohail0050-wq)
 
 ---
 
